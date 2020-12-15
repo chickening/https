@@ -5,7 +5,7 @@
 # 개발환경 
 ###  VisualCode
 ###  Spring Boot
-###  Spring Boot 내장 톰캣
+
 # CA 
 ###  Lets Encrypt
 # Domain
